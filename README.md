@@ -52,7 +52,7 @@ How long the method took to execute
 
  Starting method: placeOrder with args: 1, Alice
  Finished method: placeOrder in 15ms
-
+---
 ### Why AOP?
 
 - Keeps logging **out of business logic**
